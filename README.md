@@ -42,8 +42,3 @@ To use this application, simply follow these steps:
 3. Click on the 'Translate' button to translate the text.
 
 4. The app will display the translated text in real-time.
-
-
-## License
-
-
