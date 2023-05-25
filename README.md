@@ -1,4 +1,4 @@
-## Language-translator
+## Language translator
 
 This is a language translator website built using JavaScript that allows users to translate text from one language to another.
 
