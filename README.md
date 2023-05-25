@@ -46,4 +46,4 @@ To use this application, simply follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use and modify this code as per your requirements.
+
