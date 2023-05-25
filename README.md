@@ -27,6 +27,7 @@ This application was built using the following technologies.
 To run this application locally, please follow these steps:
 
 • Clone this repository.
+
 • Open the index.html file in your browser.
 
 ## Usage
